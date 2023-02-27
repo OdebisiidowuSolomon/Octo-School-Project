@@ -1,0 +1,99 @@
+/*Main Color*/
+/*//*/
+a:hover,
+a:focus,
+a:active {
+  color: #be9c79;
+}
+.color {
+  color: #be9c79;
+}
+.bg-color {
+  background: #be9c79;
+}
+.desc.color {
+  color: #be9c79;
+}
+.main-nav > ul > li > a:hover {
+  color: #be9c79;
+}
+.dropdown-list li a:hover {
+  color: #be9c79;
+}
+.product-title a:hover {
+  color: #be9c79;
+}
+.popup-icon {
+  color: #be9c79;
+}
+body .scroll-top {
+  background: #be9c79;
+}
+.preload #loading {
+  background-color: #be9c79;
+}
+.main-nav > ul > li:hover > a {
+  color: #be9c79;
+}
+.shop-button:hover {
+  background: #be9c79;
+}
+.contact-form-page input[type="submit"]:hover {
+  background-color: #be9c79;
+}
+.item-contact-page .contact-thumb {
+  border: 1px solid #be9c79;
+}
+.item-contact-page .contact-thumb:hover {
+  color: #be9c79;
+}
+.item-contact-page .contact-thumb::before {
+  background-color: #be9c79;
+}
+.about-intro-top h3::before {
+  background: #be9c79;
+}
+.list-about-page > li.current > a {
+  color: #be9c79;
+}
+.about-title-number a.readmore {
+  color: #be9c79;
+  border-color: #be9c79;
+}
+.about-title-number .readmore:hover {
+  background-color: #be9c79;
+}
+.item-page-view .page-view-info .btn-page-view:hover,
+.item-page-view .page-view-link:hover {
+  background-color: #be9c79;
+  border-color: #be9c79;
+}
+.list-about-page > li.current > a::after {
+  border-color: #be9c79;
+}
+.about-title-number::before {
+  background-color: #be9c79;
+}
+.about-banner-history .banner-info h3::before {
+  background: #be9c79;
+}
+.item-price-table .btn-purchase {
+  border: 2px solid #be9c79;
+  color: #be9c79;
+}
+.item-price-table .btn-purchase:hover {
+  background-color: #be9c79;
+}
+.share-social-team a:hover {
+  background-color: #be9c79;
+}
+@media (max-width: 767px) {
+  .main-nav > ul li:hover > a {
+    /*color: #be9c79 !important;*/
+  }
+  .main-nav .toggle-mobile-menu span,
+  .main-nav .toggle-mobile-menu::before,
+  .main-nav .toggle-mobile-menu::after {
+   /* background: #be9c79;*/
+  }
+}
